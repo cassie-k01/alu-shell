@@ -1,1 +1,1 @@
-This is my first shell project!.
+this is a readme
